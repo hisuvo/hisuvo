@@ -8,12 +8,7 @@
 <h2 align="center">A passionate Junior Full-Stack Developer from Bangladesh.</h2>
 </div>
 
-###
-
-
-
 ## About Me
-- 📍 Location: [Your City, Country]
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 📞 Contact: [Your Contact Number]
-- 🔗 Website: [yourwebsite.com](https://yourwebsite.com)
+<p>
+Junior Full-Stack Developer (MERN) with experience in JavaScript, React.js, Express.js, Node.js, MongoDB, Firebase, JWT, TailwindCSS, DaisyUI, and more. Passionate about building dynamic web applications and constantly exploring new technologies.
+</p>
