@@ -53,6 +53,7 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
