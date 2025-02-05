@@ -3,11 +3,16 @@
 </div>
 
 <br clear="both">
-<div>
-<h1 align="center">Hello there 👋 I am Suvo Datta !</h1>
+
 ###
+
+<h1 align="center">Hello there 👋 I am Suvo Datta !</h1>
+
+###
+
 <h2 align="center">A passionate Junior Full-Stack Developer from Bangladesh.</h2>
-</div>
+
+###
 
 ## About Me
 <p>
