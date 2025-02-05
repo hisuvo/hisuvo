@@ -19,6 +19,15 @@
 I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS, TailwindCSs and Firebase. I’m passionate about building responsive, user-friendly web applications that are scalable and efficient. I thrive on solving problems and constantly seek to learn new technologies and tools to improve my development skills. Currently focused on integrating AI into web applications and enhancing the user experience with modern technology like Next.js, GraphQL.
 </p>
 
+###
+
+## Contact Me
+📍 Location: New York, USA  
+📧 Email: example@email.com  
+📞 Phone: +123456789  
+🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+
 ## Current Activities
 <ul>
   <li>Exploring Next.js for building optimized server-side rendered applications</li>
