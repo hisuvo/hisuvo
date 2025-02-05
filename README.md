@@ -4,7 +4,7 @@
 
 ###
 
-<h1>Hello there 👋 I am Suvo Datta !</h1>
+<h1 style="text-aling:center">Hello there 👋 I am Suvo Datta !</h1>
 
 ###
 
