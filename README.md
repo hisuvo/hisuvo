@@ -10,5 +10,5 @@
 
 ## About Me
 <p>
-Junior Full-Stack Developer (MERN) with experience in JavaScript, React.js, Express.js, Node.js, MongoDB, Firebase, JWT, TailwindCSS, DaisyUI, and more. Passionate about building dynamic web applications and constantly exploring new technologies.
+I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, CSS, TailwindCSs and Firebase. I’m passionate about building responsive, user-friendly web applications that are scalable and efficient. I thrive on solving problems and constantly seek to learn new technologies and tools to improve my development skills. Currently focused on integrating AI into web applications and enhancing the user experience with modern technology like Next.js, GraphQL.
 </p>
