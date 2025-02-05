@@ -52,12 +52,6 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hisuvo/hisuvo/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Social Links
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
