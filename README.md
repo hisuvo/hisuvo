@@ -5,6 +5,7 @@
 <br clear="both">
 <div>
 <h1 align="center">Hello there 👋 I am Suvo Datta !</h1>
+###
 <h2 align="center">A passionate Junior Full-Stack Developer from Bangladesh.</h2>
 </div>
 
@@ -53,7 +54,7 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
 
 ###
 
-### Social Links
+## Social Links
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
