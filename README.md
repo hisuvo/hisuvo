@@ -22,11 +22,8 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
 ###
 
 ## Contact Me
-📍 Location: New York, USA  
-📧 Email: example@email.com  
-📞 Phone: +123456789  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
+📧 Email: suvodatta72@gmail.com
+📞 Phone: +8801571463049
 
 ## Current Activities
 <ul>
