@@ -3,6 +3,10 @@
 </div>
 
 ###
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/0ef1fa21-b9d1-4075-b62d-ff611d5df1bb/PfzAl3tAMO.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
+###
 
 <h1>Hello there 👋 I am Suvo Datta !</h1>
 
