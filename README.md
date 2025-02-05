@@ -23,6 +23,7 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
 
 ## Contact Me
 📧 Email: suvodatta72@gmail.com
+
 📞 Phone: +8801571463049
 
 ## Current Activities
