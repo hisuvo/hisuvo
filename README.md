@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="400" width ="100%" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pnbWFpcm9jdzhvdnlrZWhzc3lubjl3cnZ2eHJ6MGpidzB4bmt6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyQqyt9S1WTiE6c/giphy.gif'/>
+  <img height="400" width ="100%" src='https://www.canva.com/design/DAGeNx1VD8M/LwAimp67aic-Ki4DIfCf5A/view?utm_content=DAGeNx1VD8M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h38b3966a54'/>
 </div>
-
-###
-![Lottie Animation](https://lottie.host/0ef1fa21-b9d1-4075-b62d-ff611d5df1bb/PfzAl3tAMO.lottie)
-
 
 ###
 
