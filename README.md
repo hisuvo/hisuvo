@@ -52,6 +52,8 @@ I’m a Junior Full-Stack Developer (MERN) with a strong foundation in JavaScrip
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/hisuvo/hisuvo/output/snake.svg" alt="Snake animation" />
 
 ###
