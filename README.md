@@ -106,30 +106,28 @@ alt="TanStack Query"
 
 <br/>
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/suvodatta1/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/suvodatta2">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+<a href="https://www.linkedin.com/in/suvodatta1/">
+<img src="https://img.shields.io/badge/LinkedIn-Suvo_Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hisuvo">
+<img src="https://img.shields.io/badge/GitHub-hisuvo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://suvo-developer.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
-
-<div align="center">
-
-<b>Visitor Count</b>
-
-<br/>
-
-<img src="https://profile-counter.glitch.me/hisuvo/count.svg"/>
-
-</div>
 
 [1]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview?apiVersion=2022-11-28&utm_source=chatgpt.com "Customizing your repository's social media preview - GitHub Docs"
