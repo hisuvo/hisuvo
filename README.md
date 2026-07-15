@@ -1,7 +1,5 @@
 <div align="center">
-
-<div align="center">
-<img src="https://i.ibb.co.com/xqmK3tLc/github-banner.png" width="100%" />
+ <img src="./assets/github-banner.png"/>
 </div>
 <br/><br/>
 
