@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/xqmK3tLc/github-banner.png" alt="Suvo Datta Banner" width="100%" />
+  <img src="https://i.ibb.co.com/xqmK3tLc/github-banner.png" 
+       width="100%" 
+       height="250px"
+       style="object-fit: cover;" />
 
 <br/><br/>
 
