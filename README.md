@@ -24,20 +24,6 @@
 <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge" />
 </a>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/suvodatta1/">
-<img src="https://img.shields.io/badge/LinkedIn-Suvo_Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://suvo-developer.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
@@ -138,20 +124,17 @@ alt="TanStack Query"
 
 <p align="center">
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/suvodatta1/">
-<img src="https://img.shields.io/badge/LinkedIn-Suvo_Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Suvo_Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/hisuvo">
-<img src="https://img.shields.io/badge/GitHub-hisuvo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://suvo-developer.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </a>
 
 </p>
