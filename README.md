@@ -48,10 +48,7 @@
 ## 💻 Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+<img src="https://skillicons.dev/icons?i=js,ts,go" />
 </p>
 
 <br/>
@@ -59,16 +56,7 @@
 ## ⚛️ Frameworks & Libraries
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
-<img
-src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg"
-width="40"
-alt="TanStack Query"
-/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,prisma" />
 </p>
 
 <br/>
@@ -76,8 +64,7 @@ alt="TanStack Query"
 ## 🗄️ Database
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 <br/>
@@ -85,12 +72,7 @@ alt="TanStack Query"
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode,postman" />
 </p>
 
 <br/>
