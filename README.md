@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://i.ibb.co.com/xqmK3tLc/github-banner.png" 
-       width="100%" 
-       height="250px"
-       style="object-fit: cover;" />
-
+<div align="center">
+<img src="https://i.ibb.co.com/xqmK3tLc/github-banner.png" width="100%" />
+</div>
 <br/><br/>
 
 <h1>Hi 👋, I'm Suvo Datta</h1>
@@ -24,12 +22,12 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently working on building **highly scalable full-stack web applications**.
-* 🌱 I’m mastering deeper concepts in **System Design, Microservices, and Cloud Architecture**.
-* 👯 I’m looking to collaborate on **open-source projects** or **innovative startup ideas**.
-* 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Go, PostgreSQL, and Backend Development**.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suvodatta1/) | [Facebook](https://www.facebook.com/suvodatta2)
-* ⚡ Fun fact: I love solving complex problems and optimizing application performance!
+- 🔭 I’m currently working on building **highly scalable full-stack web applications**.
+- 🌱 I’m mastering deeper concepts in **System Design, Microservices, and Cloud Architecture**.
+- 👯 I’m looking to collaborate on **open-source projects** or **innovative startup ideas**.
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Go, PostgreSQL, and Backend Development**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suvodatta1/) | [Facebook](https://www.facebook.com/suvodatta2)
+- ⚡ Fun fact: I love solving complex problems and optimizing application performance!
 
 <br/>
 
