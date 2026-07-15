@@ -1,33 +1,61 @@
 <div align="center">
- <img src="./assets/github_banner.png"/>
-</div>
+
+<img src="./assets/github_banner.png" width="100%" alt="Suvo Datta Banner" />
+
+<br/>
+
+# Hi there, I'm Suvo Datta 👋
+
+### Full Stack Developer | Go • Next.js • TypeScript • PostgreSQL
+
+> Building scalable, secure, and high-performance web applications and backend systems.
+
+<br/>
+
+<a href="https://komarev.com/ghpvc/?username=hisuvo">
+<img src="https://komarev.com/ghpvc/?username=hisuvo&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/hisuvo?tab=followers">
+<img src="https://img.shields.io/github/followers/hisuvo?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/hisuvo">
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge" />
+</a>
+
 <br/><br/>
 
-<h1>Hi 👋, I'm Suvo Datta</h1>
-<h3>A Passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+<a href="https://www.linkedin.com/in/suvodatta1/">
+<img src="https://img.shields.io/badge/LinkedIn-Suvo_Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hisuvo&label=Profile%20views&color=0e75b6&style=flat" alt="hisuvo" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://github.com/hisuvo">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hisuvo?style=social">
-  </a>
-</p>
+<a href="https://suvo-developer.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on building **highly scalable full-stack web applications**.
-- 🌱 I’m mastering deeper concepts in **System Design, Microservices, and Cloud Architecture**.
-- 👯 I’m looking to collaborate on **open-source projects** or **innovative startup ideas**.
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Go, PostgreSQL, and Backend Development**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suvodatta1/) | [Facebook](https://www.facebook.com/suvodatta2)
-- ⚡ Fun fact: I love solving complex problems and optimizing application performance!
+- 🔭 Currently building scalable and modern full-stack web applications.
+- 🌱 Exploring System Design, Microservices, and Cloud Architecture.
+- 🚀 Passionate about Backend Development with Go and PostgreSQL.
+- 🤝 Open to collaborating on open-source projects and innovative ideas.
+- 💬 Ask me about **Go, TypeScript, Next.js, PostgreSQL, and Backend Development.**
+- ⚡ I enjoy solving real-world problems through software engineering.
 
 <br/>
+
+---
 
 ## 🚀 Key Skills & Technologies
 
