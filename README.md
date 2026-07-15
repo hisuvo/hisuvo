@@ -128,6 +128,4 @@ alt="TanStack Query"
 
 </p>
 
----
-
 [1]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview?apiVersion=2022-11-28&utm_source=chatgpt.com "Customizing your repository's social media preview - GitHub Docs"
